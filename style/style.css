@@ -3532,4 +3532,8 @@ textarea {
 	.post-nav-wrapper .next {
 	    padding: 0 0 0 15px;
 	}
+    .lead{
+        font-size: 17px; 
+        /* 17px = 13pt */
+    }
 }
